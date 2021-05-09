@@ -1,6 +1,3 @@
 # PERN Todo List Application
 
-PostgreSQL
-Express
-React
-Node
+Technologies: PostgreSQL, Express, React, Node
